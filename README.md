@@ -1,5 +1,5 @@
 # Hey there, I am Hamolicious
-<div align="left"><img src="https://i.ibb.co/cYGywF0/animated-avatar.gif"></div>
+<div><img align="left" src="https://i.ibb.co/cYGywF0/animated-avatar.gif"></div>
 <!--
 Avatar from http://www.avatarsinpixels.com/ and animated by yours trully
 -->
