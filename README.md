@@ -38,14 +38,13 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 
 <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
 
-* ⬆️ Pushed 1 commit to hamolicious/hamolicious
-* ⬆️ Pushed 1 commit to hamolicious/hamolicious
-* ⬆️ Pushed 1 commit to hamolicious/hamolicious
-* ⬆️ Pushed 1 commit to hamolicious/hamolicious
-* ⬆️ Pushed 1 commit to hamolicious/hamolicious
+⭐️ 2 📦 hamolicious/A-Star-Path-Finding-Algorithm
+⭐️ 1 📦 hamolicious/OBJ-File-Renderer
+⭐️ 0 📦 hamolicious/BrainFuckRickRoll
+⭐️ 1 📦 hamolicious/Processing-Terrain-Generation
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-20T03:25:45Z</b>
+  <b>2020-08-20T03:27:27Z</b>
 </p>
