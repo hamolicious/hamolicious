@@ -36,7 +36,7 @@ I am a hobbyist developer and game developer, love to learn new concepts and alg
 </div>
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamolicious&hide=prs,issues,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamolicious&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamolicious)](https://github.com/anuraghazra/github-readme-stats)
 
 
