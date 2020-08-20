@@ -36,10 +36,10 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 </div>
 <hr>
 
-<img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
+<img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px"><br>
 
-<!--GITHUB_REPOS:{"rows": 5, "raw": true, "sort": "stars"}-->
 
+<!--GITHUB_REPOS:{"rows": 5, "raw": true, "sort": "created"}-->
 ------------
 <p align="center">
   Last refresh: 
