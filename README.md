@@ -38,13 +38,15 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 
 <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
 
-⭐️ 2 📦 hamolicious/A-Star-Path-Finding-Algorithm
-⭐️ 1 📦 hamolicious/OBJ-File-Renderer
-⭐️ 0 📦 hamolicious/BrainFuckRickRoll
-⭐️ 1 📦 hamolicious/Processing-Terrain-Generation
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 0 | [hamolicious/ConsolePy](https://github.com/hamolicious/ConsolePy) | A game and graphics development module for the console |
+| 📦 | 1 | [hamolicious/Processing-Color-Tracker](https://github.com/hamolicious/Processing-Color-Tracker) | A colour tracking system that uses MJPEG Streams to track colors |
+| 📦 | 0 | [hamolicious/BrainFuckRickRoll](https://github.com/hamolicious/BrainFuckRickRoll) | A rick roller written by hand in brain fuck  |
+| 📦 | 0 | [hamolicious/Console-Terrain-Generation](https://github.com/hamolicious/Console-Terrain-Generation) | Terrain generation using perlin noise in the console. Run in the console! |
 
 ------------
 <p align="center">
   Last refresh: 
-  <b>2020-08-20T03:27:27Z</b>
+  <b>2020-08-20T03:28:59Z</b>
 </p>
