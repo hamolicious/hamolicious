@@ -37,3 +37,11 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 <hr>
 
 <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+------------
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
