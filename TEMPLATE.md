@@ -38,7 +38,7 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 
 <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true, "sort": "created"}-->
+<!--GITHUB_REPOS:{"rows": 4, "raw": false, "sort": "updated"}-->
 
 ------------
 <p align="center">
