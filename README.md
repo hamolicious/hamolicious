@@ -36,16 +36,5 @@ I am a hobbyist developer, love to learn new concepts and algorithms as well as 
 </div>
 <hr>
 
-<img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px"><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamolicious)](https://github.com/anuraghazra/github-readme-stats)
 
-
-⭐️ 2 📦 hamolicious/A-Star-Path-Finding-Algorithm
-⭐️ 1 📦 hamolicious/OBJ-File-Renderer
-⭐️ 0 📦 hamolicious/BrainFuckRickRoll
-⭐️ 1 📦 hamolicious/Processing-Terrain-Generation
-⭐️ 1 📦 hamolicious/Processing-Minecraft
-------------
-<p align="center">
-  Last refresh: 
-  <b>2020-08-20T03:32:35Z</b>
-</p>
