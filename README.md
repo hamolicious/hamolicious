@@ -4,7 +4,7 @@
 Avatar from http://www.avatarsinpixels.com/ and animated by yours trully
 -->
 
-I am a hobbyist developer, love to learn new concepts and algorithms as well as languages. My favourite projects are definitely the <a href="https://github.com/hamolicious/Console-Graphs">Console-Graphs</a> and <a href="https://github.com/hamolicious/OBJ-File-Renderer">OBJ-File-Renderer</a> (which I am planning on re-writting in the near future)
+I am a hobbyist developer and game developer, love to learn new concepts and algorithms as well as languages. Primarily specialise in Python and have tried many other languages.
 
 <br>
 <h2>Find me on:</h2>
