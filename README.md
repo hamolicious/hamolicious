@@ -10,6 +10,7 @@
 [![Itchio](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white)](https://hamolicious.itch.io/)
 
 ## Languages:
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -20,15 +21,13 @@
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ## Tools:
+![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-%235C5543.svg?&style=for-the-badge&logo=Gimp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=Godot-Engine&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge)
-![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=Godot-Engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-%235C5543.svg?&style=for-the-badge&logo=Gimp&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%25235C2D91.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)
-
----
+![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
