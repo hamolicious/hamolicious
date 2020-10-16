@@ -2,7 +2,7 @@
 
 ![Avatar-Animated](https://i.ibb.co/cYGywF0/animated-avatar.gif)
 
-I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.
+**I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 ## Find me on:
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
@@ -32,6 +32,3 @@ I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%25235C2D91.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
 ---
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamolicious&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamolicious)](https://github.com/anuraghazra/github-readme-stats)
