@@ -23,6 +23,7 @@ I am a hobbyist developer and game developer, love to learn new concepts and alg
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="32px" height="32px">
     <img src="https://image.flaticon.com/icons/svg/1216/1216733.svg" width="32px" height="32px">
     <img src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png" width="32px" height="32px">
+    <img src="https://avatars2.githubusercontent.com/u/2319114?s=200&v=4" width="32px" height="32px">
     <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="32px" height="32px">
     <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
