@@ -1,43 +1,37 @@
 # Hey there, I am Hamolicious
-<div><img align="left" src="https://i.ibb.co/cYGywF0/animated-avatar.gif"></div>
-<!--
-Avatar from http://www.avatarsinpixels.com/ and animated by yours trully
--->
 
-I am a hobbyist developer and game developer, love to learn new concepts and algorithms as well as languages. Primarily specialise in Python and have tried many other languages.
+![Avatar-Animated](https://i.ibb.co/cYGywF0/animated-avatar.gif)
 
-<br>
-<h2>Find me on:</h2>
-    <div style="text-align:center">
-    <a href="https://www.reddit.com/user/hamoliciousRUS/posts/"><img src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" width="32px" height="32px"></a>
-    <a href="https://www.thingiverse.com/hamolicious/designs"><img src="https://cdn.worldvectorlogo.com/logos/thingiverse-logo.svg" width="32px" height="32px"></a>
-    <a href="https://hamolicious.itch.io/"><img src="https://static.itch.io/images/itchio-textless-black.svg" width="32px" height="32px"></a>
-</div>
-<hr>
+I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.
 
-<br>
-<h2>Languages & Tools:</h2>
-<div style="text-align:center">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="32px" height="32px">
-    <img src="https://processing.org/img/processing3-logo.png" width="32px" height="32px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="32px" height="32px">
-    <img src="https://image.flaticon.com/icons/svg/1216/1216733.svg" width="32px" height="32px">
-    <img src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png" width="32px" height="32px">
-    <img src="https://avatars2.githubusercontent.com/u/2319114?s=200&v=4" width="32px" height="32px">
-    <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="32px" height="32px">
-    <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
-    <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png" width="32px" height="32px">
-    <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="32px" height="32px">
-    <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" width="32px" height="32px">
-    <img src="https://i.ibb.co/5rWCyJB/padder.png" width="32px" height="32px">
-    <img src="https://community.aseprite.org/uploads/default/original/2X/3/3e3d085d4f2c399dff32dd543fc4d163e0f3cb7a.png" width="32px" height="32px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" width="32px" height="32px">
-</div>
-<hr>
+## Find me on:
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
+[![Thingieverse](https://img.shields.io/badge/Thingieverse-%23248bfb.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://www.thingiverse.com/hamolicious/designs)
+[![Itchio](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white)](https://hamolicious.itch.io/)
+
+## Languages:
+![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+## Tools:
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge)
+![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=Godot-Engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-%235C5543.svg?&style=for-the-badge&logo=Gimp&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%25235C2D91.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)
+
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamolicious&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamolicious)](https://github.com/anuraghazra/github-readme-stats)
-
-
