@@ -3,7 +3,7 @@
 ![Avatar-Animated](https://i.ibb.co/cYGywF0/animated-avatar.gif)
 
 **I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
-*Most of my code is written once and generally not looked back up on so if any of my projects don't work, please set an issue and I will try and get back to you as fast as possible.*
+
 
 ## Find me on:
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
