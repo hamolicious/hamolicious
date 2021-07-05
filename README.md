@@ -1,7 +1,5 @@
 # Hey there, I am Hamolicious
 
-![Avatar-Animated](https://i.ibb.co/cYGywF0/animated-avatar.gif)
-
 **I am a Hobbyist Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 
