@@ -3,7 +3,7 @@
 **I am an amateur Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 ## Random Fact
-<fact>China has more English speakers than the United States.</fact>
+<fact>Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</fact>
 
 ## Find me on:
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
