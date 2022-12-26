@@ -2,10 +2,8 @@
 
 **I am an amateur Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
-<!--
 ## Random Fact
-<fact>Frauen erinnern sich an Männer mit tiefen Stimmen eher als an Männer mit hohen Stimmen</fact>
--->
+<fact>The human heart creates enough pressure to squirt blood 30 feet (9 m)</fact>
 
 ## Find me on:
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
