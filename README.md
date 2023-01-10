@@ -3,7 +3,7 @@
 **I am an amateur Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 ## Random Fact
-<fact>Intelligent people have more zinc and copper in their hair.</fact>
+<fact>A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.</fact>
 
 ## Find me on:
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
