@@ -3,7 +3,6 @@
 **I am an amateur Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 ## Find me on:
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/hamoliciousRUS/posts/)
 [![Thingieverse](https://img.shields.io/badge/Thingieverse-%23248bfb.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://www.thingiverse.com/hamolicious/designs)
 [![Itchio](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white)](https://hamolicious.itch.io/)
 [![GreasyFork](https://img.shields.io/badge/GreasyFork-%238c0000.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://greasyfork.org/en/users/745906-hamolicious)
