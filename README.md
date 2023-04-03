@@ -4,7 +4,6 @@
 
 ## Find me on:
 [![Thingieverse](https://img.shields.io/badge/Thingieverse-%23248bfb.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://www.thingiverse.com/hamolicious/designs)
-[![Itchio](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white)](https://hamolicious.itch.io/)
 [![GreasyFork](https://img.shields.io/badge/GreasyFork-%238c0000.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://greasyfork.org/en/users/745906-hamolicious)
 [![VSCode](https://img.shields.io/badge/VSCodeMarketPlace-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/Hamolicious)
 
@@ -32,5 +31,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%25235C2D91.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
-### References
-- random facts by: https://uselessfacts.jsph.pl/
+<!-- ### References
+- random facts by: https://uselessfacts.jsph.pl/ -->
