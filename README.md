@@ -3,9 +3,10 @@
 **I am an amateur Developer, Game Developer, 3D Designer, 3D Modeler, Pixel Artist, Student and Gamer. Love to learn new concepts, algorithms and languages. Primarily specialise in Python but have tried many other languages.**
 
 ## Find me on:
-[![Thingieverse](https://img.shields.io/badge/Thingieverse-%23248bfb.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://www.thingiverse.com/hamolicious/designs)
-[![GreasyFork](https://img.shields.io/badge/GreasyFork-%238c0000.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://greasyfork.org/en/users/745906-hamolicious)
 [![VSCode](https://img.shields.io/badge/VSCodeMarketPlace-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/Hamolicious)
+[![Printables](https://img.shields.io/badge/Printables-%2300979D.svg?&style=for-the-badge&logo=Printables&logoColor=white&color=FA6831)](https://www.printables.com/@hamolicious_360354)
+[![GreasyFork](https://img.shields.io/badge/GreasyFork-%238c0000.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://greasyfork.org/en/users/745906-hamolicious)
+[![Thingieverse](https://img.shields.io/badge/Thingieverse-%23248bfb.svg?&style=for-the-badge&logo=noIcon&logoColor=white)](https://www.thingiverse.com/hamolicious/designs)
 
 ## Languages:
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
