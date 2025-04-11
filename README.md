@@ -1,6 +1,6 @@
 # Hey there, I am Hamolicious
 
-Junior Software Development Engineer in Test for Compare the Market.
+Junior Software Engineer for Compare the Market. I mostly like to work on tools that speed up your workflow - so that you can make more tools, faster of course.
 
 ## Find me on:
 [![VSCode](https://img.shields.io/badge/VSCodeMarketPlace-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/Hamolicious)
